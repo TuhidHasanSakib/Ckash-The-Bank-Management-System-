@@ -1,6 +1,6 @@
 # 🏦 Ckash - Bank Management System
 
-Welcome to **Ckash**, a simple yet powerful Bank Management System built in C! Crafted as a Software Development Capstone Project by **Thuhid Hasan Sakib** and **Abir Hossen** at Daffodil International University, this project showcases fundamental banking operations with a user-friendly console interface. Dive into the world of structured programming, file handling, and secure data management with Ckash! 🚀
+Welcome to **Ckash**, a simple yet powerful Bank Management System built in C! Crafted as a Software Development Capstone Project by **Tuhid Hasan Sakib** and **Abir Hossen** at Daffodil International University, this project showcases fundamental banking operations with a user-friendly console interface. Dive into the world of structured programming, file handling, and secure data management with Ckash! 🚀
 
 ## 📖 About the Project
 
